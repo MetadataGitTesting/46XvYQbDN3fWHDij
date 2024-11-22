@@ -59,16 +59,8 @@ pipelineConfigurations:
     author: gny27cif.ofibbxky@8iuejmzl.com
     createdAt: '2024-11-22 22:59:34'
     configurations:
-      pipelineConfigurations/willetta.hauck/Micah_BahringerGene_PooleStanford_Smith/dev:
-        name: dev
-        author: null
-        createdAt: '2024-11-22 22:59:34'
       pipelineConfigurations/willetta.hauck/Micah_BahringerGene_PooleStanford_Smith/dev2:
         name: dev2
-        author: null
-        createdAt: '2024-11-22 22:59:34'
-      pipelineConfigurations/willetta.hauck/Micah_BahringerGene_PooleStanford_Smith/dev3:
-        name: dev3
         author: null
         createdAt: '2024-11-22 22:59:34'
     basePipeline: 37/pipelines/Micah_BahringerGene_PooleStanford_Smith

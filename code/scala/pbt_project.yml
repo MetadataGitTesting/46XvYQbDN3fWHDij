@@ -1,0 +1,74 @@
+name: twanda.dach
+description: exuding
+version: 0.0.1
+author: gny27cif.ofibbxky@8iuejmzl.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: twandadach
+  parentArtefactID: gny27cifofibbxky8iuejmzlcomteam
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 22:59:33'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 22:59:33'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T22:59:33.788029Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '1039198598'
+  createdAt: '2024-11-22T22:59:33.788029Z'
+  type: plibMaven
+projectDependencies:
+  '37':
+    projectUID: 37
+    projectName: willetta.hauck
+    repositoryPath: gitUri=http://gitserver:3000/dev_i6kCshXz_team_86/dev_i6kCshXz_project_37.git&subPath=
+    version: willetta.hauck/0.5.2.618
+    isDefault: false
+    author: null
+    createdAt: '2024-11-22 22:59:33'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations:
+  pipelineConfigurations/willetta.hauck/Micah_BahringerGene_PooleStanford_Smith:
+    author: gny27cif.ofibbxky@8iuejmzl.com
+    createdAt: '2024-11-22 22:59:34'
+    configurations:
+      pipelineConfigurations/willetta.hauck/Micah_BahringerGene_PooleStanford_Smith/dev:
+        name: dev
+        author: null
+        createdAt: '2024-11-22 22:59:34'
+      pipelineConfigurations/willetta.hauck/Micah_BahringerGene_PooleStanford_Smith/dev2:
+        name: dev2
+        author: null
+        createdAt: '2024-11-22 22:59:34'
+      pipelineConfigurations/willetta.hauck/Micah_BahringerGene_PooleStanford_Smith/dev3:
+        name: dev3
+        author: null
+        createdAt: '2024-11-22 22:59:34'
+    basePipeline: 37/pipelines/Micah_BahringerGene_PooleStanford_Smith
